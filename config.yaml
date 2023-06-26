@@ -1,0 +1,12 @@
+credentials:
+  usernames:
+    jsmith:
+      name: John Smith
+      password: $2a$04$A3wHNiN4caJkdJB.POc4MuS3zdRlrH2842r8oKr.9sb7.91f5Jb3y
+    rbriggs:
+      name: Rebecca Briggs
+      password: $2a$04$UMGrbtuyJtUWdA8Pzob5TuapTx0CAPbhSivCojEAAZ7jV3yK6a9B2
+    gdodke:
+      name: Gaurish Dodke
+      password: $2a$04$J.oAoK/1E.qwfuwhlqTQN.HU4SzBGgH4g99EMDT0ZVXdhwvPPz15W
+
